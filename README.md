@@ -1,6 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE.html>
 <html lang="en">
-
 <head>
     <title>URL Shortener</title>
     <style>
@@ -81,17 +80,6 @@
             justify-content: center;
         }
     </style>
-
-    <b:skin>
-        <![CDATA[
-<style>
-body {
-  background-color: #f0f0f0;
-}
-</style>
-]]>
-    </b:skin>
-
 </head>
 
 <body>
@@ -138,5 +126,4 @@ body {
         });
     </script>
 </body>
-
 </html>
